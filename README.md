@@ -1,5 +1,3 @@
-MARKDOWN
-COPY
 Hi 👋 My name is Sebastián Rodríguez
 ====================================
 
