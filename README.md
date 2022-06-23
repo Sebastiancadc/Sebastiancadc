@@ -1,7 +1,7 @@
 Hi 👋 My name is Sebastián Rodríguez
 ====================================
 
-Desarollador backend
+Developer backend
 --------------------
 
 I have been developing since I was 19 years old, from web page development, I have two years of experience working as a backend developer
